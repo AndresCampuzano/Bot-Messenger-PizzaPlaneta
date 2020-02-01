@@ -1,5 +1,5 @@
 # Bot-Messenger-PizzaPlaneta
-This is my first Bot created to simulate a pizzerie shop.
+This is my first Bot created to simulate a pizzerie shop using Messenger.
 
 # What I learned
 - How to connect Messenger developer platform with a server.
